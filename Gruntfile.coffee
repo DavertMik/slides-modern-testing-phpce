@@ -88,7 +88,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:DavertMik/slides-modern-testing-phpce.git'
+                    remote: 'git@github.com:DavertMik/slides-phptek.git'
                     branch: 'gh-pages'
         
 
